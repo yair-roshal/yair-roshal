@@ -16,7 +16,7 @@
   <img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=yair-roshal&show_icons=true&hide_border=true" align="right" height="135" />
 </a>
 
-Hey ! I'm [Yair Roshal] a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in Javascript/Typescript,React, Node and MongoDb.
+Hey ! I'm Yair Roshal a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in Javascript / Typescript, React, Node and MongoDb.
  
 ### 📕 I love learning about...
 - Software architectures (**Microservices**).
