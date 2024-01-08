@@ -17,16 +17,8 @@
 </a>
 
 Hey ! I'm [Yair Roshal] a Software Engineer & Full-Stack Web Developer with more than **4 years of experience** at private IT companies. also as a freelancer, graduated with a Master's degree specialised in Computer System Engineering and passionate about software engineering, with strong background in Javascript/Typescript,React, Node and MongoDb.
-
-### 📦 I'm currently working in...
-- [Kikar aShabat](https://kikar.co.il)  The largest religious site with coverage of more than 7 million users
-- ▪ Developed in web technologies, such as React 17, TypeScript, Webpack 5, Material-UI 5 (Styled Component) and JS (ES6)
-- ▪ Working with server, database and site API
-- ▪ Development of new features, various improvements, both visual and accelerating site work, creating new sections
-
  
-
-### 📕 I'm currently learning about...
+### 📕 I love learning about...
 - Software architectures (**Microservices**).
 - Deep software engineering concepts such as (Design patterns, solide principles...).
 
